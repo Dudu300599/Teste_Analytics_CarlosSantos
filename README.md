@@ -1,4 +1,4 @@
-# Teste para Estagiário de Analytics - [Seu Nome e Sobrenome]
+# Teste para Estagiário de Analytics - [Carlos Santos]
 
 Este repositório contém a resolução do teste para a vaga de Estagiário de Analytics na Quod.
 
