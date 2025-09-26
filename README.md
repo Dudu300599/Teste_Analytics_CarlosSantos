@@ -40,7 +40,7 @@ O projeto está organizado da seguinte forma:
 
 1.  Clone o repositório:
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone [[URL_DO_SEU_REPOSITORIO]](https://github.com/Dudu300599/Teste_Analytics_CarlosSantos)
     cd Teste_Analytics_CarlosSantos
     ```
 
